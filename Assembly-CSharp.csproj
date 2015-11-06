@@ -51,11 +51,9 @@
      <Compile Include="Assets\script\finNivel.cs" />
      <Compile Include="Assets\script\inicio.cs" />
      <Compile Include="Assets\script\json.cs" />
-     <Compile Include="Assets\script\pausa.cs" />
      <Compile Include="Assets\script\siguientenivel.cs" />
      <Compile Include="Assets\script\spawn.cs" />
      <Compile Include="Assets\script\spawn1.cs" />
-     <Compile Include="Assets\script\texto.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
@@ -69,7 +67,7 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="LitJson">
- <HintPath>C:/Users/Juan García/Videos/Practica_3_/Practica_3_/Assets/LitJson.dll</HintPath>
+ <HintPath>C:/Users/Juan García/Downloads/Practica_3_/Practica_3_/Assets/LitJson.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
